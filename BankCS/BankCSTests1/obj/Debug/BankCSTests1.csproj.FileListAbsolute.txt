@@ -1,8 +1,0 @@
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCSTests1\bin\Debug\BankCSTests1.dll
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCSTests1\bin\Debug\BankCSTests1.pdb
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCSTests1\bin\Debug\BankCS.dll
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCSTests1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCSTests1\bin\Debug\BankCS.pdb
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCSTests1\obj\Debug\BankCSTests1.csprojResolveAssemblyReference.cache
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCSTests1\obj\Debug\BankCSTests1.dll
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCSTests1\obj\Debug\BankCSTests1.pdb

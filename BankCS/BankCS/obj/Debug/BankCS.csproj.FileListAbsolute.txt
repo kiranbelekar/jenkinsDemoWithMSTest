@@ -1,5 +1,0 @@
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCS\bin\Debug\BankCS.dll
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCS\bin\Debug\BankCS.pdb
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCS\obj\Debug\BankCS.csprojResolveAssemblyReference.cache
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCS\obj\Debug\BankCS.dll
-C:\Users\Kiran\Desktop\MSTest\kiran\BankCS\BankCS\obj\Debug\BankCS.pdb
