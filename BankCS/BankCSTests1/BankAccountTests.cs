@@ -18,5 +18,13 @@ namespace BankAccountNS.Tests
             double amount = 11.22;
             Assert.Fail();
         }
+
+        [TestMethod()]
+        public void CreditTest()
+        {
+            BankAccount target = new BankAccount("Mr. Bryan Walton", 11.99);
+            double amount = 11.22;
+            Assert.AreNotEqual(amount,1888);
+        }
     }
 }
